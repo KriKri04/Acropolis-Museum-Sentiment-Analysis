@@ -13,7 +13,7 @@ This repository provides a complete pipeline for collecting, processing, and ana
 ```
 .
 ├── main.py                         # Web scraper for TripAdvisor reviews
-├── combine_acropolis_reviews.py   # Merges and analyzes review CSVs
+├── combine_acropolis_reviews.py   # Merges review CSVs
 ├── Final_Acropolis_Sentiment_Analysis.ipynb  # Sentiment analysis and visualization
 ```
 
