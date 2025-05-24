@@ -76,21 +76,6 @@ Final_Acropolis_Sentiment_Analysis.ipynb
 
 ---
 
-## 📈 Sample Insights
-
-- Average review score and length
-- Distribution of review sentiments (positive/neutral/negative)
-- Commonly used words in each sentiment category
-
----
-
-## 🧠 Future Work
-
-- Integrate real-time scraping via scheduler
-- Apply advanced NLP models (e.g., BERT)
-- Translate non-English reviews before analysis
-
----
 
 ## 📄 License
 
