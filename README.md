@@ -27,15 +27,6 @@ This repository provides a complete pipeline for collecting, processing, and ana
 pip install curl-cffi beautifulsoup4 pandas matplotlib seaborn scikit-learn nltk
 ```
 
-2. **(Optional)** Setup NLTK data if required by the notebook:
-
-```python
-import nltk
-nltk.download('vader_lexicon')
-```
-
----
-
 ## 🕸️ Web Scraping
 
 To scrape TripAdvisor reviews of the Acropolis Museum, run:
